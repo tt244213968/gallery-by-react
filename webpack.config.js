@@ -11,7 +11,7 @@ module.exports = {
 
   output: {
     filename: 'main.js',
-    publicPath: '/assets/'
+    publicPath: 'gallery-by-react/assets/'
   },
 
   cache: true,
