@@ -11,7 +11,7 @@ var webpack = require('webpack');
 module.exports = {
 
   output: {
-    publicPath: 'gallery-by-react/assets/',
+    publicPath: '/assets/',
     path: 'dist/assets/',
     filename: 'main.js'
   },
